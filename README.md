@@ -44,14 +44,6 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luisgoncalves12&show_icons=true&theme=tokyonight" alt="Luis GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgoncalves12&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisgoncalves12&theme=tokyonight" alt="Luis Streak Stats"/>
 </p>
 
@@ -67,14 +59,6 @@
   <a href="https://www.linkedin.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
   <a href="mailto:seuemail@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40"/></a>
   <a href="https://www.instagram.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/></a>
-</p>
-
----
-
-<h2 align="center">🐍 Gráfico de Contribuições</h2>
-
-<p align="center">
-  <img src="https://github.com/Luisgoncalves12/Luisgoncalves12/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
