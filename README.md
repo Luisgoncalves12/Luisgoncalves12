@@ -45,6 +45,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisgoncalves12&theme=tokyonight" alt="Luis Streak Stats"/>
+  <p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luisgoncalves12&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Luisgoncalves12&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Luisgoncalves12's github stats" /></a>
 </p>
 
 <p align="center">
@@ -64,3 +67,5 @@
 ---
 
 <p align="center">✨ Sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em programação e contribuir para projetos inovadores!</p>
+  
+</p>
