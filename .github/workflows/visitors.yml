@@ -1,0 +1,16 @@
+name: Visitor Counter
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # roda todo dia ao meio-dia
+  workflow_dispatch:
+
+jobs:
+  counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Atualizar contador de visitantes
+        run: echo "Visitor count atualizado automaticamente!"
