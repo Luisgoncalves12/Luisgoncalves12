@@ -41,21 +41,6 @@ Busco oportunidades para contribuir em áreas de **Tecnologia da Informação** 
   Python • HTML • CSS • Git • GitHub • Web Scraping • SQLite • Pacote Office
 </p>
 
----
-
-## Projetos em Destaque
-
-### [climasync-radar](https://github.com/Luisgoncalves12/climasync-radar)
-Aplicação web de clima desenvolvida com **Python**, **Flask** e **WeatherAPI**, criada para consultar informações meteorológicas em uma interface simples, funcional e voltada para uso prático.
-
-### [echoes-of-corruption](https://github.com/Luisgoncalves12/echoes-of-corruption)
-RPG em terminal desenvolvido com **Python**, com combate por turnos, progressão por áreas, persistência em **SQLite**, decisões morais e múltiplos finais, explorando lógica de programação e estruturação de sistemas.
-
-### [web_scraping_teste](https://github.com/Luisgoncalves12/web_scraping_teste)
-Projeto em **Python** voltado para coleta e tratamento de dados com **web scraping**, incluindo extração de informações, processamento de valores e exportação para **JSON** e **CSV**.
-
-### [sistema-mercado-python](https://github.com/Luisgoncalves12/sistema-mercado-python)
-Sistema de mercado com **Python** e **SQLite**, com funcionalidades de login, carrinho, controle de estoque e operações de vendas, demonstrando aplicação prática de regras de negócio e banco de dados.
 
 ---
 
