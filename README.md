@@ -1,113 +1,38 @@
 <h1 align="center">Luis Gustavo Gonçalves dos Santos</h1>
 
 <p align="center">
-  <strong>Engenharia de Software</strong> • <strong>Python</strong> • <strong>Automação</strong> • <strong>Análise de Dados</strong>
+  Estudante de Engenharia de Software • Python • Análise de Dados • Automação
 </p>
 
 <p align="center">
-  Transformando lógica, dados e organização em soluções práticas.
+  <a href="https://www.linkedin.com/in/luis-gustavo-2422b2338/">LinkedIn</a> •
+  <a href="mailto:gs8269906@gmail.com">Email</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Luisgoncalves12">GitHub</a> •
-  <a href="mailto:gs8269906@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/luis-gustavo-2422b2338/">LinkedIn</a>
-</p>
-
----
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com formação técnica em **Informática**, com interesse em desenvolvimento de sistemas, automação de processos e análise de dados. Tenho perfil analítico, organizado e proativo, e gosto de construir soluções que unam funcionalidade, clareza e aplicação prática.
+Curso **Engenharia de Software na UDF** e sou técnico em **Informática pelo CED Stella**. Gosto de transformar dados e processos em ferramentas úteis, com foco em Python, SQL, automação e visualização de dados.
 
-Busco oportunidades para contribuir em áreas de **Tecnologia da Informação** ou operações com dados, aplicando raciocínio técnico, responsabilidade e vontade constante de evoluir profissionalmente.
+Atualmente trabalho na **Progaia Engenharia**, acompanhando licitações, documentos e prazos. Antes, atuei na **Fanup** com análise de dados esportivos e operações remotas, e na **Luis Imóveis** com atendimento e rotinas administrativas. Busco oportunidades de estágio ou posição júnior em tecnologia e dados.
 
----
+## Projetos em destaque
 
-## Formação
+- **[Radar de Licitações Ambientais](https://github.com/Luisgoncalves12/Radar-de-Licitacoes-ambientais)** — projeto em evolução que consulta dados do PNCP, classifica oportunidades e organiza o acompanhamento em SQLite e Excel.
+- **[Monitoramento de Preços da Gasolina](https://github.com/Luisgoncalves12/gasolina-em-tempo-real)** — coleta e trata dados públicos da ANP, mantém histórico em SQLite e gera alertas de variação de preços.
+- **[Análise de Dados da La Liga 2022/23](https://github.com/Luisgoncalves12/projeto-analise-de-dados-LA-LIGA-2022-2023)** — projeto de análise de dados esportivos.
+- **[Sistema de Fórmula 1 em SQL](https://github.com/Luisgoncalves12/Trabalho-DML-Sistema-Formula1)** — trabalho acadêmico de banco de dados.
 
-- **Análise e Desenvolvimento de Sistemas** - UDF *(cursando)*
-- **Técnico em Informática** - CED Stella
+## Tecnologias e ferramentas
 
----
+**Dados e desenvolvimento:** Python, pandas, SQL, SQLite, MySQL, Power BI, Excel, HTML e CSS.
 
-## Stack e Ferramentas
+**Fluxo de trabalho:** Git, GitHub e GitHub Actions.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" alt="Tecnologias"/>
-</p>
+## Aprendendo agora
 
-<p align="center">
-  Python • HTML • CSS • Git • GitHub • Web Scraping • SQLite • Pacote Office
-</p>
-
-
----
-
-## Experiência
-
-### Auxiliar Administrativo - Luis Imóveis
-
-- Atendimento ao cliente
-- Organização de documentos e dados
-- Suporte às rotinas administrativas
-
-### Analista Operacional (Freelancer) - Plataforma de Eventos Esportivos (EUA | Remoto)
-
-- Análise e gerenciamento de eventos em sistema interno
-- Validação e organização de dados
-- Suporte operacional remoto
-
----
-
-## Competências
-
-**Técnicas**
-
-- Python
-- HTML e CSS
-- Web Scraping
-- Git e GitHub
-- Pacote Office
-- Noções de Análise de Dados
-
-**Comportamentais**
-
-- Organização
-- Comunicação
-- Proatividade
-
----
-
-## Foco Atual
-
-- Evolução em **Python** e construção de projetos mais completos
-- Prática com **automação**, **web scraping** e manipulação de dados
-- Desenvolvimento de soluções com foco em organização, eficiência e aprendizado contínuo
-
----
-
-## GitHub em números
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luisgoncalves12&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgoncalves12&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luisgoncalves12&theme=transparent&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
+Aprofundando meus estudos em **bancos de dados, modelagem de dados, automação e desenvolvimento de software**. Também desenvolvo projetos próprios para aplicar o que aprendo na graduação.
 
 ## Contato
 
-- GitHub: [github.com/Luisgoncalves12](https://github.com/Luisgoncalves12)
-- LinkedIn: [linkedin.com/in/luis-gustavo-2422b2338](https://www.linkedin.com/in/luis-gustavo-2422b2338/)
-- Email: [gs8269906@gmail.com](mailto:gs8269906@gmail.com)
-
----
-
-<p align="center">
-  <em>Aprender, construir e evoluir um projeto de cada vez.</em>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/luis-gustavo-2422b2338/)
+- [Email](mailto:gs8269906@gmail.com)
