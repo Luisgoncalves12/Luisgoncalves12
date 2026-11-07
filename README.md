@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software** com formação técnica em **Informática**, com interesse em desenvolvimento de sistemas, automação de processos e análise de dados. Tenho perfil analítico, organizado e proativo, e gosto de construir soluções que unam funcionalidade, clareza e aplicação prática.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com formação técnica em **Informática**, com interesse em desenvolvimento de sistemas, automação de processos e análise de dados. Tenho perfil analítico, organizado e proativo, e gosto de construir soluções que unam funcionalidade, clareza e aplicação prática.
 
 Busco oportunidades para contribuir em áreas de **Tecnologia da Informação** ou operações com dados, aplicando raciocínio técnico, responsabilidade e vontade constante de evoluir profissionalmente.
 
