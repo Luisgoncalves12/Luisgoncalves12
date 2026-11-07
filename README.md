@@ -26,7 +26,7 @@ Busco oportunidades para contribuir em áreas de **Tecnologia da Informação** 
 
 ## Formação
 
-- **Engenharia de Software** - UDF *(cursando)*
+- **Análise e Desenvolvimento de Sistemas** - UDF *(cursando)*
 - **Técnico em Informática** - CED Stella
 
 ---
